@@ -23,3 +23,11 @@ def multiplicacion ():
 
     print ("El resultado de multiplicar ", a, " y ", b , " es ", c)
 
+def suma ():
+
+    a=float(input("Digite un número: "))
+    b=float(input("Digite otro número: "))
+
+    c = a+b
+
+    print ("El resultado de sumar ", a, " y ", b , " es ", c)
