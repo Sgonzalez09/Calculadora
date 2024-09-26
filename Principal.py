@@ -13,7 +13,13 @@ def restar():
 
     print("El resultado de la resta es: ", c)
 
-    
-restar()
 
-print(multiplicaion)
+def multiplicacion ():
+
+    a=float(input("Digite un número: "))
+    b=float(input("Digite otro número: "))
+
+    c = a*b
+
+    print ("El resultado de multiplicar ", a, " y ", b , " es ", c)
+
