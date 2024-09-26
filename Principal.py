@@ -15,3 +15,5 @@ def restar():
 
     
 restar()
+
+print(multiplicaion)
